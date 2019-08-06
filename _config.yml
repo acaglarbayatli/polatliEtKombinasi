@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Polatlı Et Kombinası"
 description: > # this means to ignore newlines until "email:"
-   Polatlı halkının hizmetine açılmıstır
+   Polatlı halkının hizmetine açılmıstır!
 
 email: bayatlideri@gmail.com
 #blog logo
